@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import config from './config.json';
 import styles from './Greeter.css';
-import styless from './test.scss';
+import styless from './sassdemo.scss';
 
 
 export default class Greeter extends Component {

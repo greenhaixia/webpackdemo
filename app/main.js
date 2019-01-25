@@ -3,7 +3,7 @@ import React from 'react';
 import {render} from 'react-dom';
 import Greeter from './Greeter';
 import './main.css';
-import './test.scss';
+import './sassdemo.scss';
 
 
 render(<Greeter />, document.getElementById('root'));
