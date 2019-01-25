@@ -1,6 +1,6 @@
 const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const ExtractTextPlugin = require('extract-text-webpack-plugin'); //npm install --save-dev extract-text-webpack-plugin@next
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 
 module.exports = {
